@@ -134,7 +134,7 @@ Good AI depends on good data engineering. I'm building the bridge between the tw
 | <img src="https://skillicons.dev/icons?i=gcp" width="34"/> | **Professional Cloud Architect** | Google Cloud | [Verify ↗](https://www.credly.com/badges/3c1cce87-ac05-42d0-8e74-21f54816cfd4/linked_in_profile) |
 | <img src="https://skillicons.dev/icons?i=azure" width="34"/> | **Azure Data Fundamentals** | Microsoft | [Verify ↗](https://www.credly.com/badges/0e57c2c8-ce50-485a-bfe7-37666b273b67/linked_in_profile) |
 | <img src="https://skillicons.dev/icons?i=kubernetes" width="34"/> | **Kubernetes and Cloud Native Associate (KCNA)** | CNCF / Linux Foundation | [Verify ↗](https://www.credly.com/badges/aab70a6d-d038-4372-9b61-ed562fcf62e8/linked_in_profile) |
-| 🧠 | **Cloud Developer Associate – AI (HCCDA-AI)** | Huawei | [Verify ↗](https://www.linkedin.com/in/caleb-muinde-2564a534b/overlay/Certifications/709748936/treasury/?profileId=ACoAAFd1rSIB1A0yTTftDkMplZ7-BaCXEfR4yMk) |
+| <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/huaweicloud-color.svg" width="34"/> | **Cloud Developer Associate – AI (HCCDA-AI)** | Huawei | [Verify ↗](https://www.linkedin.com/in/caleb-muinde-2564a534b/overlay/Certifications/709748936/treasury/?profileId=ACoAAFd1rSIB1A0yTTftDkMplZ7-BaCXEfR4yMk) |
 
 <br/>
 
@@ -176,6 +176,10 @@ I'm happy to connect with people building data platforms, cloud systems, and AI-
 
 ```text
 muindecaleb83@gmail.com
+```
+
+```text
++254794501179
 ```
 
 <div align="center">
