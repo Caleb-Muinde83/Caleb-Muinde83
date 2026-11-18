@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1b2a41,100:6C63FF&height=240&section=header&text=Caleb%20Muinde&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%C2%B7%20Cloud%20Architect%20%C2%B7%20AI%2FML%20Integration&descSize=20&descAlignY=60" alt="Caleb Muinde: Data Engineer, Cloud Architect, AI/ML Integration" width="100%"/>
 
 <a href="https://qu-bit.org/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=8B85FF&center=true&vCenter=true&width=900&height=40&lines=Production-grade+data+platforms;Streaming+systems+with+Kafka+%26+Flink;Cloud+architecture+on+GCP+%26+Azure;Local+LLMs%2C+RAG+%26+AI-ready+data+pipelines;Co-founder+of+Qu-Bit+open-source+community" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=8B85FF&center=true&vCenter=true&width=900&height=40&lines=Production-grade+data+platforms;Streaming+systems+with+Kafka+%26+Flink;Cloud+architecture+on+GCP%2C+Azure%2C+AWS%2C+Huawei+%26+Oracle+Cloud;Local+LLMs%2C+RAG+%26+AI-ready+data+pipelines;Co-founder+of+Qu-Bit+open-source+community" alt="Typing animation"/>
 </a>
 
 <br/>
@@ -52,9 +52,9 @@ Today I'm extending that foundation toward **AI and ML**: integrating **local mo
 
 <br/>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### ⚡ [Banking Fraud Platform](https://github.com/Caleb-Muinde83/banking-fraud-platform)
+###  [Banking Fraud Platform](https://github.com/Caleb-Muinde83/banking-fraud-platform)
 > *Real-time, event-driven fraud detection, with two independent risk engines running active-active.*
 
 A containerized banking simulation built on **change data capture**. Transactions flow from PostgreSQL through Debezium into Kafka, where **Flink** handles stateful stream processing and graph-based fraud-ring detection while **Java and Python risk engines** score events in parallel. Alerts are aggregated and surfaced through full observability tooling.
@@ -74,7 +74,7 @@ flowchart LR
 
 <br/>
 
-### 🗄️ [Enterprise DB Clinic](https://github.com/Caleb-Muinde83/enterprise-db-clinic)
+###  [Enterprise DB Clinic](https://github.com/Caleb-Muinde83/enterprise-db-clinic)
 > *A hands-on lab that recreates real production database problems, across three engines.*
 
 Using one large-scale e-commerce/fintech dataset, this project works through **indexing, partitioning, schema drift, corruption recovery, zero-downtime migrations, and version upgrades**, with side-by-side comparison studies across PostgreSQL, MySQL, and SQL Server.
@@ -83,7 +83,7 @@ Using one large-scale e-commerce/fintech dataset, this project works through **i
 
 <br/>
 
-### 🏎️ [Formula 1 Data Platform](https://github.com/Caleb-Muinde83/f1_data_project)
+###  [Formula 1 Data Platform](https://github.com/Caleb-Muinde83/f1_data_project)
 > *End-to-end ELT: from raw telemetry to interactive dashboards.*
 
 Extracts race and telemetry data from the **OpenF1 API**, stages it as Parquet, models it with **dbt**, and serves it through **DuckDB / BigQuery** to Streamlit dashboards. Orchestrated with **Airflow**, provisioned with **OpenTofu**, shipped through **CI/CD**, and extended with team-radio transcription.
@@ -100,36 +100,22 @@ flowchart LR
 
 <br/>
 
-## 🤖 Where I'm Taking My Work: AI-Ready Data Platforms
+##  Where I'm Taking My Work: AI-Ready Data Platforms
 
 Good AI depends on good data engineering. I'm building the bridge between the two, applying data-platform discipline to AI workloads and running models **locally**, where cost, privacy, and control matter.
 
 | | Focus | What it means in practice |
 |:-:|---|---|
-| 🧠 | **Local & open models** | Running and evaluating open-weight LLMs on my own hardware |
-| 🔎 | **Retrieval (RAG)** | Embeddings, vector search, and grounding models in trusted data |
-| 🏗️ | **AI-ready pipelines** | Clean, versioned, observable data feeding ML and LLM workloads |
-| 🔁 | **MLOps foundations** | Reproducible environments, CI/CD, and monitoring for models |
+|  | **Local & open models** | Running and evaluating open-weight LLMs on my own hardware |
+|  | **Retrieval (RAG)** | Embeddings, vector search, and grounding models in trusted data |
+|  | **AI-ready pipelines** | Clean, versioned, observable data feeding ML and LLM workloads |
+|  | **MLOps foundations** | Reproducible environments, CI/CD, and monitoring for models |
 
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 
 <br/>
 
-## 🛠️ Tech Stack
-
-| | |
-|:--|:--|
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,java,js,bash,&theme=dark" height="34"/> |
-| **Streaming & Orchestration** | <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white"/> <img src="https://img.shields.io/badge/Debezium-000000?style=flat-square&logo=debezium&logoColor=white"/> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/> |
-| **Databases & Warehouses** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black"/> <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/> |
-| **Analytics Engineering** | <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/> <img src="https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logo=apacheparquet&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> |
-| **Cloud & Infrastructure** | <img src="https://skillicons.dev/icons?i=gcp,azure,kubernetes,docker,terraform,linux,githubactions&theme=dark" height="34"/> <img src="https://img.shields.io/badge/OpenTofu-FFDA18?style=flat-square&logo=opentofu&logoColor=black"/> |
-| **Observability** | <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" height="34"/> <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white"/> |
-| **AI / ML** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="34"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> |
-
-<br/>
-
-## 🎓 Certifications
+##  Certifications
 
 | | Certification | Issued by | |
 |:-:|---|---|:-:|
@@ -141,7 +127,7 @@ Good AI depends on good data engineering. I'm building the bridge between the tw
 
 <br/>
 
-## 🌍 Community: Qu-Bit
+##  Community: Qu-Bit
 
 <div align="center">
 
@@ -161,7 +147,7 @@ I'm a co-founder of Qu-Bit, an open-source community for learning by building. I
 
 <br/>
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <div align="center">
 
@@ -173,7 +159,7 @@ I'm a co-founder of Qu-Bit, an open-source community for learning by building. I
 
 <br/>
 
-## 📬 Get in Touch
+##  Get in Touch
 
 I'm happy to connect with people building data platforms, cloud systems, and AI-powered tools, or hiring for them. Copy my email with one click:
 
