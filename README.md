@@ -27,12 +27,15 @@ Today I'm extending that foundation toward **AI and ML**: integrating **local mo
 <td align="center" width="25%">
 <img src="https://skillicons.dev/icons?i=kafka" width="52"/><br/><br/>
 <b>Data Engineering</b><br/>
-<sub>Streaming, CDC, ELT,<br/>orchestration</sub>
+<sub>Streaming, Batch, CDC, ELT & ETL,<br/>orchestration</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=gcp,azure" width="104"/><br/><br/>
+<img src="https://skillicons.dev/icons?i=gcp,azure" width="68"/>
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/huaweicloud-color.svg" width="34"/>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/oracle-cloud.svg" width="34"/>
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/aws-color.svg" width="34"/><br/><br/>
 <b>Cloud Architecture</b><br/>
-<sub>GCP · Azure · Kubernetes<br/>Infrastructure as Code</sub>
+<sub>GCP · Azure · AWS · OCloud · Kubernetes<br/>Infrastructure as Code</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://skillicons.dev/icons?i=postgres" width="52"/><br/><br/>
