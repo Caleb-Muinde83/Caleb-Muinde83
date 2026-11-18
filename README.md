@@ -162,9 +162,9 @@ I'm a co-founder of Qu-Bit, an open-source community for learning by building. I
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Caleb-Muinde83&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B85FF&icon_color=6C63FF&text_color=c9d1d9&count_private=true" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Caleb-Muinde83&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8B85FF&icon_color=6C63FF&text_color=c9d1d9" alt="GitHub stats"/>
 &nbsp;
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Caleb-Muinde83&hide_border=true&background=0d1117&ring=6C63FF&fire=8B85FF&currStreakLabel=8B85FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Streak stats"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=Caleb-Muinde83&hide_border=true&background=0d1117&ring=6C63FF&fire=8B85FF&currStreakLabel=8B85FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Streak stats"/>
 
 </div>
 
